@@ -13,3 +13,7 @@ reaproveitar.
 ---
 
 Roodney Felix Borges
+
+## Como trabalho
+
+Uso IA como ferramenta de trabalho. Eu defino o problema, as decisões e os critérios, e reviso o resultado; a IA executa e ajuda a redigir sob essa direção.
