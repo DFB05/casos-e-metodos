@@ -9,6 +9,7 @@ reaproveitar.
 | Caso | Em uma linha |
 |---|---|
 | [Versionador de telas](casos/versionador-de-telas/) | Versões numeradas de telas de trabalho, sem perder histórico nem padrão de nome |
+| [Consulta de descrições padrão](casos/consulta-de-descricoes-padrao/) | Lista fechada e copiável de descrições de lançamento, para o texto não variar de pessoa para pessoa |
 
 ---
 
